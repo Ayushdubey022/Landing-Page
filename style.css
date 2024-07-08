@@ -29,7 +29,7 @@ html, body {
 
 .left {
     width: 45%;
-    background: url(Images/col6image1.jpg);
+    background: url(col6image1.jpg);
     background-size: cover;
     position: fixed;
     top: 0;
